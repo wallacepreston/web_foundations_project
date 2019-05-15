@@ -1,0 +1,19 @@
+{
+  "name": "web_foundations_project",
+  "version": "1.0.0",
+  "description": "An inventory management of prizes for acme users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallacepreston/web_foundations_project.git"
+  },
+  "author": "Preston Wallace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallacepreston/web_foundations_project/issues"
+  },
+  "homepage": "https://github.com/wallacepreston/web_foundations_project#readme"
+}
